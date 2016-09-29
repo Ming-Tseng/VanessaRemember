@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vanessa Remember</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit">小乖要忘得的事</string>
+</resources>
